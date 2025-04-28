@@ -1,0 +1,16 @@
+{
+    "name": "slovni-fotbal-bot",
+    "version": "1.0.0",
+    "description": "Discord bot pro slovní fotbal",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "germanek_0911",
+    "license": "ISC",
+    "dependencies": {
+      "discord.js": "^14.11.0",
+      "dotenv": "^16.3.1"
+    }
+  }
+  
